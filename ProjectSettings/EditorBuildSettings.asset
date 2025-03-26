@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene Marlon.unity
+    guid: 502ff7a0fe759ff46abb7e7a3911a1e7
+  - enabled: 1
+    path: Assets/Scenes/ColorTest.unity
+    guid: 429408e7fd65b42b0aa214a8e613e662
+  - enabled: 1
+    path: Assets/Scenes/Dosenwerfen.unity
+    guid: 91a9c554b8b54f942ae7c36deadc0c26
+  - enabled: 1
+    path: Assets/Scenes/FruitNinja.unity
+    guid: 41d24d65fd6280143a992434bdf64111
+  - enabled: 0
+    path: Assets/Scenes/SpielDosenwerfen.unity
+    guid: 929169bcdd5e64faca79c09bd4569982
+  - enabled: 0
+    path: Assets/Scenes/Dosenwerfen_alt.unity
+    guid: 127cc2d374dc248ed87274ea1b76d849
+  - enabled: 0
+    path: Assets/Scenes/ColorTest_alt.unity
+    guid: 5f73516c78eda4827b1d08f489d3b916
+  - enabled: 0
+    path: Assets/Scenes/FruitNinja_alt.unity
+    guid: 51d42ccf1ec1740b0b759d86dc79f6db
+  - enabled: 0
+    path: Assets/Scenes/Dosenwerfen_alt.unity
+    guid: 127cc2d374dc248ed87274ea1b76d849
+  m_configObjects: {}
